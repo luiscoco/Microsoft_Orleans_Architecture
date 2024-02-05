@@ -1,5 +1,7 @@
 # Microsoft Orleans architecture
 
+https://learn.microsoft.com/en-us/dotnet/orleans/tutorials-and-samples/tutorial-1
+
 https://github.com/dotnet/samples/tree/main/orleans
 
 https://github.com/dotnet/orleans/tree/main/samples
