@@ -1,5 +1,7 @@
 # Microsoft Orleans architecture
 
+https://github.com/willvelida/HelloOrleans/tree/main
+
 https://learn.microsoft.com/es-es/dotnet/orleans/host/configuration-guide/client-configuration?pivots=orleans-7-0
 
 https://learn.microsoft.com/en-us/training/modules/orleans-build-your-first-app/
