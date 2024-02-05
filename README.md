@@ -1,6 +1,6 @@
 # Microsoft Orleans architecture
 
-https://learn.microsoft.com/en-us/training/modules/orleans-build-your-first-app/?source=recommendations
+https://learn.microsoft.com/en-us/training/modules/orleans-build-your-first-app/
 
 https://learn.microsoft.com/en-us/dotnet/orleans/tutorials-and-samples/tutorial-1
 
