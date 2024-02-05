@@ -1,5 +1,7 @@
 # Microsoft Orleans architecture
 
+https://github.com/dotnet/orleans/tree/main/samples
+
 https://sergeybykov.github.io/orleans/index.html
 
 https://sergeybykov.github.io/orleans/Documentation/index.html
